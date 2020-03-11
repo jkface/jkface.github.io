@@ -1,0 +1,8 @@
+body {
+  font-family: 'Libre Baskerville', Garamond, 'Times New Roman', serif;
+}
+
+.title a {
+  text-decoration: none;
+  color: inherit;
+}
