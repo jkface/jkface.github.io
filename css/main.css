@@ -12,14 +12,20 @@
   color: inherit;
 }
 
+.header {
+  margin-bottom: 12px;
+  height: 100px;
+}
+.header .logo {
+  float: left;
+  margin-right: 10px;
+}
+
 .header .title h1 {
   margin-bottom: 0;
+  padding-top: 8px;
 }
 
 .header .description {
   color: #6c757d;
-}
-
-.header {
-  margin-bottom: 12px;
 }
