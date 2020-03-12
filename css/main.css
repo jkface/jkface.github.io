@@ -28,6 +28,7 @@
 
 .header {
   margin-bottom: 12px;
+  margin-top: 20px;
   height: 100px;
 }
 .header .logo {
@@ -48,6 +49,7 @@
   .header {
     margin-bottom: 8px;
     height: 80px;
+    margin-top: 15px;
   }
   .header .logo {
     float: left;
