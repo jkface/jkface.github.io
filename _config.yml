@@ -2,4 +2,3 @@ title: han2k
 description: A personal blog where I record my thoughts on happiness, sustainability, and tech.
 timezone: "America/Los_Angeles"
 markdown: kramdown
-permalink: /:year-:title/
