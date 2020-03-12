@@ -8,7 +8,7 @@ layout: feed
 	<link href="https://han2k.com/atom.xml" rel="self"/>
 	<link href="https://han2k.com"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>https://han2k.com</id>
+	<id>https://han2k.com/</id>
 	<author>
 		<name>Hank Han</name>
 	</author>
