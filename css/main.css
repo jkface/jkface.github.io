@@ -70,3 +70,17 @@
     font-size: 0.7rem;
   }
 }
+
+.footer {
+  margin-top: 10px;
+  text-align: center;
+  color: grey;
+}
+
+.footer .rss {
+  font-size: small;
+}
+
+.footer .mail {
+  font-size: small;
+}
