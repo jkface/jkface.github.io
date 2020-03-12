@@ -2,6 +2,16 @@
   font-family: Garamond, 'Times New Roman', Times, Georgia, serif;
 }
 
+.post-header h1 {
+  font-size: 2rem;
+  margin-bottom: 0;
+}
+
+.post-header h2 {
+  font-size: 1.5rem;
+  color: grey;
+}
+
 .container {
   max-width: 800px !important;
 }
