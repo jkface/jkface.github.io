@@ -2,6 +2,10 @@
   font-family: Garamond, 'Times New Roman', Times, Georgia, serif;
 }
 
+.long-post {
+  font-size: larger;
+}
+
 .post-header h1 {
   font-size: 2rem;
   margin-bottom: 0;
