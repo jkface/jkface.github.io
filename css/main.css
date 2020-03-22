@@ -6,6 +6,10 @@
   font-size: larger;
 }
 
+.posts {
+  font-size: x-large;
+}
+
 .post-header h1 {
   font-size: 2rem;
   margin-bottom: 0;
